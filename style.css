@@ -14,7 +14,8 @@ a, a:link, a:visited, a:active {
 }
 
 /* Középső hasáb */
-#container {width: 600px;
+#container {
+	width: 600px;
 	margin: auto;
 	background-color: #5c6b7b;
 	padding: 0 20px 0 20px;
@@ -23,9 +24,9 @@ a, a:link, a:visited, a:active {
 /* Fejléc */
 #header img {
 	display: block;
-	margin-bottom: 10px;
-}
 
+}
+#header {margin-bottom: 10px;}
 
 /* Navigációs sáv */
 
