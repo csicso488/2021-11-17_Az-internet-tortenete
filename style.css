@@ -65,13 +65,16 @@ a, a:link, a:visited, a:active {
 /* Tartalom */
 #content {
 	margin-bottom: 10px;
-
+    background-color: white; 
+    padding: 10px;
 }
 
 /*Lábléc  */
 #footer {
 	margin-bottom: 10px;
-
+padding: 10px;
+background-color: #Cddbeb
+;
 }
 
 /* További stílusok */
@@ -84,5 +87,5 @@ a, a:link, a:visited, a:active {
 }
 
 .active {
-
+background-color: white;
 }
